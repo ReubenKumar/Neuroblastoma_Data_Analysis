@@ -2,7 +2,7 @@
 
 # 📊 RNA Data Mortality Prediction Models
 
-This repository contains code for building machine learning models to predict **death from disease** using **RNA data**. The goal is to leverage gene expression profiles to identify patterns associated with patient survival outcomes.
+This repository contains code for building machine learning models to predict **death from disease** using **FPKM RNA data**. The goal is to leverage gene expression profiles to identify patterns associated with patient survival outcomes.
 
 ---
 
